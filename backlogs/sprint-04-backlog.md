@@ -6,19 +6,19 @@ permalink: /backlogs/sprint-04-backlog/
 
 # 📋 Sprint 04 Backlog – *Insurance Risk Calculator*
 
-Scrum Master: Eric Pogue
+Scrum Master: Alex
 
-Product Owner: Eric Pogue
+Product Owner: Niko
 
 Sprint 4 Planning Date/Time:
 
-Sprint 4 Planning Participants: Eric Pogue, Tessy, and Edward Scissorhands (remotely)
+Sprint 4 Planning Participants: Niko, Alex, Tony, Luke
 
 Sprint 4 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | As a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team responsibilities are clearly defined for the sprint, | 10 | 0 | Y | Ready | -- |
+| RC-001 | As a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team responsibilities are clearly defined for the sprint, | 10 | 0 | Y | Done | Niko |
 
 
 Todo:
