@@ -12,7 +12,7 @@ Product Owner: Niko
 
 Sprint 4 Planning Date/Time:
 
-Sprint 4 Planning Participants: Niko, Alex, Tony, Luke
+Sprint 4 Planning Participants: Niko, Alex, Tony, Luke, Saikiran
 
 Sprint 4 Backlog:
 
@@ -26,6 +26,12 @@ Sprint 4 Backlog:
 | RC-006 | As a user, I want a clean and welcoming home screen with instructions so that I can quickly understand how to use the application. | 5 | 3 | N | Assigned | Luke |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 3 | N | Assigned | Luke |
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | Assigned | Niko |
+| RC-002 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 2 | Y | Assigned | Alex |
+| RC-003 | As a Product Owner, I want to manage the backlogs and focus on the Minimum Viable Product (MVP) and prioritize stories so that I can deliver value to users by the end of the sprint. | 6 | 2 | Y | Assigned | Niko |
+| RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 6 | 2 | N | Assigned | Luke |
+| RC-012 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 3 | Y | Assigned | Tony |
+| RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 3 | Y | Assigned | Niko |
+| RC-016 | As a user, I want a visually appealing application to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 1 | 5 | N | Assigned | Saikiran |
 
 
 Todo:
